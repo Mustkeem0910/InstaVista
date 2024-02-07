@@ -13,7 +13,7 @@ To run the development environment of the application locally on your computer, 
 
 ```sh
 git clone https://github.com/Mustkeem0910/InternVista.git
-cd Reactive-Resume
+cd InternVista
 ```
 
 ### 2. Install dependencies
