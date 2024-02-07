@@ -8,6 +8,7 @@ To run the development environment of the application locally on your computer, 
 
 - Docker (with Docker Compose)
 - Node.js 18 or higher (with pnpm)
+- Postgres Database
 
 ### 1. Fork and Clone the Repository
 
